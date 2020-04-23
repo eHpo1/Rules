@@ -47,8 +47,6 @@ host, blzddist1-a.akamaihd.net, Domestic
 # > ByteDance
 host-suffix, feiliao.com, Domestic
 host-suffix, pstatp.com, Domestic
-host-suffix, snssdk.com, Domestic
-host-suffix, iesdouyin.com, Domestic
 host-suffix, toutiao.com, Domestic
 # > CCTV
 host-suffix, cctv.com, Domestic
