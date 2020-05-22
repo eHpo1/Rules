@@ -325,6 +325,7 @@ host-suffix, steemit.com, Global
 host-suffix, steemitwallet.com, Global
 host-suffix, t66y.com, Global
 host-suffix, tapatalk.com, Global
+host-suffix, technews.tw, Global
 host-suffix, teco-hk.org, Global
 host-suffix, teco-mo.org, Global
 host-suffix, teddysun.com, Global

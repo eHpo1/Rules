@@ -1597,6 +1597,7 @@ rules:
   - DOMAIN-SUFFIX,steemitwallet.com,Global
   - DOMAIN-SUFFIX,t66y.com,Global
   - DOMAIN-SUFFIX,tapatalk.com,Global
+  - DOMAIN-SUFFIX,technews.tw,Global
   - DOMAIN-SUFFIX,teco-hk.org,Global
   - DOMAIN-SUFFIX,teco-mo.org,Global
   - DOMAIN-SUFFIX,teddysun.com,Global
