@@ -1530,6 +1530,7 @@ rules:
   - DOMAIN-SUFFIX,nii.ac.jp,Global
   - DOMAIN-SUFFIX,nikkei.com,Global
   - DOMAIN-SUFFIX,nofile.io,Global
+  - DOMAIN-SUFFIX,notion.so,Global
   - DOMAIN-SUFFIX,now.com,Global
   - DOMAIN-SUFFIX,nrk.no,Global
   - DOMAIN-SUFFIX,nyt.com,Global
@@ -1597,6 +1598,7 @@ rules:
   - DOMAIN-SUFFIX,steemitwallet.com,Global
   - DOMAIN-SUFFIX,t66y.com,Global
   - DOMAIN-SUFFIX,tapatalk.com,Global
+  - DOMAIN-SUFFIX,technews.tw,Global
   - DOMAIN-SUFFIX,teco-hk.org,Global
   - DOMAIN-SUFFIX,teco-mo.org,Global
   - DOMAIN-SUFFIX,teddysun.com,Global
